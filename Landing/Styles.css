@@ -121,4 +121,50 @@ box-sizing: border-box;
     margin-right: 10px;
 }
 
+section-botton div {
+    display: flex;
+    text-align: center;
+    
+} 
 
+section-botton div {
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 400px 40px 400px;
+} 
+
+section-botton ul {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    margin: 0px 70px 0 10px;
+} 
+
+section-botton ul {
+    flex: 1;
+} 
+
+h2 {
+    color: #6262a8;
+    font-size: 2em;
+    font-weight: 300;
+    align-items: center;
+    font-weight: bold;
+} 
+
+.smaller-image {
+    width: 100px;
+}
+
+h4 {
+    text-align: center;
+    color: #6262a0;
+    font-weight: 300;
+    font-weight: bold;
+}
+
+section-botton ul li{
+    list-style: none;
+    margin: 0 20px;
+}
